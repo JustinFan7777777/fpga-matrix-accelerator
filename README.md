@@ -30,3 +30,7 @@ This project was the first time I truly felt the "friction" of hardware—optimi
 
 ---
 *Built with Verilog, Logic, and Grit.*
+
+## License
+
+Code is released under the [MIT License](LICENSE). Copyright is shared by the team members listed above.
